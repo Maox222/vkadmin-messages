@@ -1,0 +1,25 @@
+# Секреты
+.env
+appsettings/
+publish/
+
+# Build results
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+Photos/
+
+# Visual Studio
+*.user
+.vs/
+
+# NuGet
+*.nupkg
+*.snupkg
+
+# Logs
+[Ll]og/
+[Ll]ogs/
